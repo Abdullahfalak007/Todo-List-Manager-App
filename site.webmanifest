@@ -1,0 +1,9 @@
+{"name":"Falak Family",
+"short_name":"Falak Family",
+"icons":
+[
+    {"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}
+],
+"theme_color":"#f5b4b4",
+"background_color":"#f5b4b4",
+"display":"standalone"}
